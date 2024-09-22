@@ -1,24 +1,2 @@
-Hello, and welcome.
-The Henrique world is a insane mix with folly, 
-devise and relax time 🚬
-
-Sit back while listening to some good music.
-
-https://github.com/vulturechan/vulturechan/assets/89092039/7cc087a3-051d-4e05-9945-a85ab96d1cbf
-
-
-
-<!--
-**vulturechan/vulturechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, relax time 🚬.
+Code and good music is perfect world.
